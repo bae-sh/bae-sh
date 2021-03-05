@@ -4,5 +4,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bae-sh)](https://github.com/anuraghazra/github-readme-stats)
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=b5460881)
-
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=b5460881)](https://solved.ac/kinetic27)
