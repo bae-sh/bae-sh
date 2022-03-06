@@ -1,9 +1,10 @@
 
-# <div align=center>Bae Seong Hyeon </div>
+# <div align=center>Bae Seong Hyeon👋 </div>
 <br>
 <br>
 
-## <div align=center>🛠Tech Stack🛠</div>
+<h3 align=center>🛠Tech Stack🛠</h3>
+
 <br>
 <div align=center>
   <img  src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=html5&logoColor=white">
