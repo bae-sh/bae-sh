@@ -3,7 +3,7 @@
 <br>
 <br>
 
-### <div align=center>🛠Tech Stack🛠</div>
+## <div align=center>🛠Tech Stack🛠</div>
 <br>
 <div align=center>
   <img  src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=html5&logoColor=white">
