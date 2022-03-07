@@ -31,7 +31,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=b5460881)](https://solved.ac/b5460881)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bae-sh&show_icons=true&theme=merko)](https://github.com/bae-sh)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bae-sh&show_icons=true&theme=merko&count_private=true)](https://github.com/bae-sh)
   
 </div>
 
