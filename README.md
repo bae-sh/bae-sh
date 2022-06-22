@@ -3,6 +3,13 @@
 <br>
 <br>
 
+<div align=center>
+  
+[
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbae-sh&count_bg=%2379C83D&title_bg=%231D1D1D&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+
 <h3 align=center>🛠Tech Stack🛠</h3>
 
 <br>
@@ -24,9 +31,6 @@
 <br>
 <br>
 <div align=center>
-  
-[
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbae-sh&count_bg=%2379C83D&title_bg=%231D1D1D&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
   
 [![b5460881's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=b5460881)](https://solved.ac/profile/b5460881)
 
