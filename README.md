@@ -38,7 +38,8 @@
   
 [![b5460881's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=b5460881)](https://solved.ac/profile/b5460881)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bae-sh&show_icons=true&theme=merko&count_private=true)](https://github.com/bae-sh)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bae-sh&show_icons=true&theme=chartreuse-dark)
+
 
 
 </div>
