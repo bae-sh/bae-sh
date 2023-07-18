@@ -1,19 +1,12 @@
 
-# <div align=center>Bae Seong Hyeon👋 </div>
-<br>
-<br>
+# <div>Bae Seong Hyeon👋 </div>
 
-<div align=center>
-  
 [
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbae-sh&count_bg=%2379C83D&title_bg=%231D1D1D&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
-
-<h3 align=center>🛠Tech Stack🛠</h3>
-
 <br>
-<div align=center>
+<h3>🛠Tech Stack</h3>
+
+<div >
   <img  src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img  src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -28,13 +21,25 @@
 <img  src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white">
 </div>
 <br>
-<br>
-<br>
-<div align=center>
+<div >
+
+<h3 >✨Experience</h3>
+
+- `Hyundai Softeer Bootcamp Frontend 2nd` - 2023.07 ~ ing
+
+- `SW 인재트랙 in Purdue University` - 2023.01 ~ 2023.02
+
+- `42 Seoul la piscine` - 2022.01 ~ 2023.02
+
+- `Chungnam National University` - 2018.03 ~ 2024.02(예정)
+</div>
+
+<br/>
   
 [![b5460881's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=b5460881)](https://solved.ac/profile/b5460881)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bae-sh&show_icons=true&theme=merko&count_private=true)](https://github.com/bae-sh)
-  
+
+
 </div>
 
