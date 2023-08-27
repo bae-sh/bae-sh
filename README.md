@@ -29,8 +29,6 @@
 
 - `SW 인재트랙 in Purdue University` - 2023.01 ~ 2023.02
 
-- `42 Seoul la piscine` - 2022.01 ~ 2022.02
-
 - `Chungnam National University` - 2018.03 ~ 2024.02(예정)
 </div>
 
