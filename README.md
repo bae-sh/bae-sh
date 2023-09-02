@@ -25,7 +25,7 @@
 
 <h3 >✨Experience</h3>
 
-- `Hyundai Softeer Bootcamp Frontend 2nd` - 2023.07 ~ ing
+- `Hyundai Softeer Bootcamp Frontend 2nd` - 2023.07 ~ 2023.08
 
 - `SW 인재트랙 in Purdue University` - 2023.01 ~ 2023.02
 
